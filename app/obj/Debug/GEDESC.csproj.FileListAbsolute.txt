@@ -1,0 +1,49 @@
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\app.exe.config
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\GEDESC.csproj.ResolveComReference.cache
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.exe
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.pdb
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\app.exe
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\app.pdb
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\MySql.Data.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\GEDESC.csprojResolveAssemblyReference.cache
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.Inicio.resources
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.PID.resources
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\GEDESC.csproj.GenerateResource.Cache
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\Interop.AcroPDFLib.dll
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\AxInterop.AcroPDFLib.dll
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csproj.ResolveComReference.cache
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\Interop.AcroPDFLib.dll
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csproj.ResolveComReference.cache
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csprojResolveAssemblyReference.cache
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.Inicio.resources
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.ListadoPID.resources
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.PID.resources
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csproj.GenerateResource.Cache
+F:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.exe.config
+F:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.exe
+F:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.pdb
+F:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\Interop.AcroPDFLib.dll
+F:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.Properties.Resources.resources
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.exe
+F:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.pdb
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.exe.config
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.exe
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.pdb
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.exe
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\GEDESC.pdb
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\MySql.Data.dll
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\Interop.AcroPDFLib.dll
+I:\PROYECTO\Proyecto VB\Projects\app\app\bin\Debug\AxInterop.AcroPDFLib.dll
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csprojResolveAssemblyReference.cache
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.Inicio.resources
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.ListadoPID.resources
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\app.PID.resources
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.Properties.Resources.resources
+I:\PROYECTO\Proyecto VB\Projects\app\app\obj\Debug\GEDESC.csproj.GenerateResource.Cache

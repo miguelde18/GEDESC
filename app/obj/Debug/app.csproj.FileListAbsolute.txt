@@ -1,0 +1,16 @@
+c:\users\bc\documents\visual studio 2015\Projects\app\app\bin\Debug\app.exe.config
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\app.exe
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\app.pdb
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.exe
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.pdb
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\bin\Debug\MySql.Data.dll
+C:\Users\bc\Documents\Visual Studio 2015\Projects\app\app\obj\Debug\app.Inicio.resources
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\obj\Debug\app.csproj.ResolveComReference.cache
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bc\documents\visual studio 2015\Projects\app\app\obj\Debug\app.PID.resources
